@@ -1,6 +1,6 @@
 # taskinator
 
-insert url
+https://ditazan.github.io/taskinator/
 
 ## languages utilized
 - html
